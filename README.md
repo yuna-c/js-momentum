@@ -1,2 +1,2 @@
 # Momentum.js 
-https://yuna-c.github.io/momentumjs/
+https://yuna-c.github.io/js-momentum/
